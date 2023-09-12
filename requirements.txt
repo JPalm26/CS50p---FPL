@@ -1,0 +1,6 @@
+pip installs used
+fpl
+aiohttp
+asyncio
+inquirer
+prettytable
